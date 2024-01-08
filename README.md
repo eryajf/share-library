@@ -1,0 +1,1 @@
+此项目为 [Jenkins基于Share Library共享库的最佳实践探索](https://wiki.eryajf.net/pages/fa2478/) 一文所用物料。
